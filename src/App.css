@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar{
+  background-color: #F55A5A;
+  color: #fff;
+  margin-top: 0px;
+  padding-top: 0px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.globe-logo{
+  width: 30px
+}
+
+.card-div{
+  display: flex;
+  flex-direction: row;
+}
